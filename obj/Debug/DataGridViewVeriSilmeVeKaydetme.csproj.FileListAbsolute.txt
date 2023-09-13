@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\bin\Debug\DataGridViewVeriSilmeVeKaydetme.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\bin\Debug\DataGridViewVeriSilmeVeKaydetme.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\bin\Debug\DataGridViewVeriSilmeVeKaydetme.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriSilmeVeKaydetme\obj\Debug\DataGridViewVeriSilmeVeKaydetme.pdb
